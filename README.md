@@ -1,4 +1,4 @@
-# Beginners C++ Course
+# Beginners Java Course
 
 ### COURSE METHODOLGY
 
