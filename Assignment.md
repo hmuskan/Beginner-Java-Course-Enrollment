@@ -9,9 +9,9 @@ The completion and submission of this assignment is an entry test to join this c
 NOTE - If you know the basics, you can attempt the task straightaway, else go through the learning resources.
 
 #### Learning Resource
-- [LearningLad](https://www.youtube.com/watch?v=SQHREey_Yuc&list=PLfVsf4Bjg79Cu5MYkyJ-u4SyQmMhFeC1C&index=2&t=0s): Watch first 21 videos
-- [Geeks For Geeks](https://www.geeksforgeeks.org/c-plus-plus/?ref=leftbar): Read first 11 topics under Basics section
-- [CodesDope](https://www.codesdope.com/cpp-introduction/): Read first 8 topics i.e till Controlling Loops
+- [Javatpoint](https://www.javatpoint.com/java-tutorial): Till Control Statements
+- [Programming with Mosh](https://www.youtube.com/watch?v=eIrMbAQSU34&t=40s)
+- [CodesDope](https://www.codesdope.com/java-introduction/): Read first 8 topics i.e till Controlling Loops
 
 #### Task
 - [Let's Start](https://www.codesdope.com/practice/java-lets-program/)
@@ -20,12 +20,12 @@ NOTE - If you know the basics, you can attempt the task straightaway, else go th
 
 - Problem No. 10, 11 from [Operators](https://www.codesdope.com/practice/java-operators/)
 
-- Problems 5, 6 from [Decide If-Else](https://www.codesdope.com/practice/java-decide-if-or-else//)
+- Problem No. 5, 6 from [Decide If-Else](https://www.codesdope.com/practice/java-decide-if-or-else/)
 
-- Last 2 Problems from [Loops](https://www.codesdope.com/practice/cpp-loops/)
+- Problem No. 6, 7 from [Loops](https://www.codesdope.com/practice/java-loop-loop-loop/)
 
 #### Already know the basics? Wanna learn more?
-If this is the case, you should probably enroll for the advance course whose details can be found here - [Advance C++ Course](https://github.com/Girl-Code-It/Data-Structures-Algorithms-in-CPP-Course-Enrollment)
+If this is the case, you should probably enroll for the advance course whose details can be found here - [Advance Java Course](https://github.com/Girl-Code-It/Data-Structures-Algorithms-in-Java-Course-Enrollment)
 
 ### Submitting your assignment
 - You shall upload all your solutions to a git repository, and provide it's link in this [form]().
